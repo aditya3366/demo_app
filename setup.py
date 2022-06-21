@@ -10,7 +10,7 @@ setup(
 	name="demo_app",
 	version=version,
 	description="A demo app",
-	author="aditya",
+	author="VS",
 	author_email="adityadas3366@gmail.com",
 	packages=find_packages(),
 	zip_safe=False,
